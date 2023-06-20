@@ -1,0 +1,2 @@
+config SHIELD_PALM  
+    def_bool $(shields_list_contains, Palm)
